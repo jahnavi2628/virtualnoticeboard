@@ -1,0 +1,5 @@
+{
+  "name": "RGUKT Virtual Notice Board & Radio",
+  "description": "A web application for RGUKT college featuring a virtual notice board, college radio, GPA calculator, and role-based access for students, admins, and a central panel.",
+  "requestFramePermissions": []
+}
